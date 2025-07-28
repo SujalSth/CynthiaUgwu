@@ -57,7 +57,7 @@ margin-left:110px ;
     text-transform: uppercase;
     font-size: 15px;
     text-align: end;
-    color:rgba(255, 255, 255, 0.578);
+    color:rgb(255, 255, 255);
 
 }
 .small-headings{
@@ -69,7 +69,7 @@ margin-left:110px ;
    text-align: right;
    text-transform: uppercase;
     font-size: 18px;
-    color:rgba(255, 255, 255, 0.578);
+    color:rgb(255, 255, 255);
 }
 .home-footer{
     width: 100%;
@@ -81,7 +81,7 @@ margin-left:110px ;
     padding: 0 3vw;
 }
 .home-footer a{
-    color:rgba(255, 255, 255, 0.578);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -91,7 +91,7 @@ margin-left:110px ;
 }
 .home-footer .circle{
     padding: 3px;
-    background-color:rgba(255, 255, 255, 0.578);
+    background-color:rgb(255, 255, 255);
     color: black;
     border-radius: 50%;
 }
